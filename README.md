@@ -3,7 +3,7 @@
 SwiftChat is a real time chat application built in Swift 5 using Firebase Realtime Database. App is created programmatically as well as using storyboard. 
 
 ## Programming language used
-- Swift 
+- Swift 5
 
 ## Deployment Info
 - iOS 14.5

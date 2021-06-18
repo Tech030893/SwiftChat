@@ -105,7 +105,6 @@
 			children = (
 				180FB45C264D65E9004FF262 /* GoogleService-Info.plist */,
 				180FB449264D45CD004FF262 /* Resources */,
-				180FB448264D45C3004FF262 /* ViewModels */,
 				180FB447264D45BD004FF262 /* Models */,
 				180FB446264D45B6004FF262 /* Views */,
 				180FB445264D45AB004FF262 /* Controllers */,
@@ -151,13 +150,6 @@
 				189E43A12655079000AFC6F5 /* ProfileViewModel.swift */,
 			);
 			path = Models;
-			sourceTree = "<group>";
-		};
-		180FB448264D45C3004FF262 /* ViewModels */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModels;
 			sourceTree = "<group>";
 		};
 		180FB449264D45CD004FF262 /* Resources */ = {
