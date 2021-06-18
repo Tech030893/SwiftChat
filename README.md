@@ -29,7 +29,7 @@ SwiftChat is a real time chat application built in Swift 5 using Firebase Realti
 - GoogleSignIn
 
 ### Other UI Dependencies
-- 'MessageKit
+- MessageKit
 - JGProgressHUD
 - RealmSwift
 - SDWebImage
